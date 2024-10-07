@@ -4,7 +4,7 @@ player_index_first_name = 2
 player_index_full_name = 3
 player_index_is_active = 4
 
-# Data last updated: Aug, 28 2024
+# Data last updated: Oct, 8 2024
 
 players = [
     [76001, "Abdelnaby", "Alaa", "Alaa Abdelnaby", False],
@@ -1737,7 +1737,7 @@ players = [
     [203268, "Gutierrez", "Jorge", "Jorge Gutierrez", False],
     [1629657, "Guy", "Kyle", "Kyle Guy", False],
     [2062, "Guyton", "A.J.", "A.J. Guyton", False],
-    [2775, "Ha Seung-jin", "", "Ha Seung-jin", False],
+    [2775, "Ha", "Seung-jin", "Ha Seung-jin", False],
     [1629060, "Hachimura", "Rui", "Rui Hachimura", True],
     [76910, "Hackett", "Rudy", "Rudy Hackett", False],
     [201632, "Haddadi", "Hamed", "Hamed Haddadi", False],
@@ -4306,7 +4306,7 @@ players = [
     [201969, "Summers", "DaJuan", "DaJuan Summers", False],
     [1628410, "Sumner", "Edmond", "Edmond Sumner", False],
     [78654, "Sumpter", "Barry", "Barry Sumpter", False],
-    [201180, "Sun Yue", "", "Sun Yue", False],
+    [201180, "Sun", "Yue", "Sun Yue", False],
     [78278, "Sunderlage", "Don", "Don Sunderlage", False],
     [1743, "Sundov", "Bruno", "Bruno Sundov", False],
     [78279, "Sundvold", "Jon", "Jon Sundvold", False],
@@ -4982,13 +4982,13 @@ players = [
     [203100, "Wroten", "Tony", "Tony Wroten", False],
     [78627, "Wynder", "A.J.", "A.J. Wynder", False],
     [1627824, "Yabusele", "Guerschon", "Guerschon Yabusele", False],
-    [2397, "Yao Ming", "", "Yao Ming", False],
+    [2397, "Yao", "Ming", "Yao Ming", False],
     [2428, "Yarbrough", "Vincent", "Vincent Yarbrough", False],
     [78628, "Yardley", "George", "George Yardley", False],
     [78629, "Yates", "Barry", "Barry Yates", False],
     [78630, "Yates", "Wayne", "Wayne Yates", False],
     [78631, "Yelverton", "Charlie", "Charlie Yelverton", False],
-    [201146, "Yi Jianlian", "", "Yi Jianlian", False],
+    [201146, "Yi", "Jianlian", "Yi Jianlian", False],
     [78632, "Yonakor", "Rich", "Rich Yonakor", False],
     [1628221, "York", "Gabe", "Gabe York", False],
     [78633, "Young", "Danny", "Danny Young", False],
@@ -5015,7 +5015,7 @@ players = [
     [78643, "Zeno", "Tony", "Tony Zeno", False],
     [78644, "Zevenbergen", "Phil", "Phil Zevenbergen", False],
     [1917, "Zhi-zhi", "Wang", "Wang Zhi-zhi", False],
-    [1627753, "Zhou Qi", "", "Zhou Qi", False],
+    [1627753, "Zhou", "Qi", "Zhou Qi", False],
     [678, "Zidek", "George", "George Zidek", False],
     [2583, "Zimmerman", "Derrick", "Derrick Zimmerman", False],
     [1627757, "Zimmerman", "Stephen", "Stephen Zimmerman", False],
@@ -5433,7 +5433,7 @@ wnba_players = [
     [100102, "Hampton", "Kym", "Kym Hampton", False],
     [203845, "Hamson", "Jennifer", "Jennifer Hamson", False],
     [100517, "Hamzova", "Romana", "Romana Hamzova", False],
-    [1629566, "Han Xu", "", "Han Xu", False],
+    [1629566, "Han", "Xu", "Han Xu", False],
     [204336, "Harden", "Alex", "Alex Harden", False],
     [201046, "Harding", "Lindsey", "Lindsey Harding", False],
     [201509, "Harper", "Laura", "Laura Harper", False],
